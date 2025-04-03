@@ -14,18 +14,18 @@ This is a simple web application that allows users to upload files, similar to G
 - **Cross-Origin Resource Sharing**: CORS
 
 ## Project Structure
-google-drive-clone/
-│
-├── backend/
-│   ├── server.js
-│   └── uploads/ (this folder should be created automatically when you upload files)
-│
-├── frontend/
-│   ├── index.html
-│   ├── styles.css
-│   └── script.js
-│
-└── package.json
+google-drive-clone/<br>
+│<br>
+├── backend/<br>
+│   ├── server.js<br>
+│   └── uploads/ (this folder should be created automatically when you upload files)<br>
+│<br>
+├── frontend/<br>
+│   ├── index.html<br>
+│   ├── styles.css<br>
+│   └── script.js<br>
+│<br>
+└── package.json<br>
 
 
 ## Installation Instructions
